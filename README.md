@@ -24,6 +24,6 @@ Copy the repository url (https://github.com/Edward358-AI/myohtheweb-new) and pas
 
 Make sure you use VSCode Browser/Desktop version!! Whether you use standard or large configuration doesn't matter too much.
 
-Wait for the codespace to boot up, and the web service should automatically start. The link is going to be in the terminal, which is the bottom portion of the screen. Click on one of the links (use ctrl/cmd + click). 
+Wait for the codespace to boot up, and the web service should automatically start. The link is going to be in the terminal, which is the bottom portion of the screen. Click on one of the links (use ctrl/cmd + click). Additionally, next to the "terminal" tab should be a tab that says "ports". The address will be there as well.
 
 Enjoy a free instance of Myohtheweb! Note: This will not keep it running forever, and you will have to keep the codespace open in case to keep it alive.
