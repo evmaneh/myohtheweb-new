@@ -4,6 +4,11 @@
 
 The deployable all-in-one bundle for Myohtheweb
 
-Maybe add how to deploy later to this repo? See https://github.com/titaniumnetwork-dev/Ultraviolet-App for info on how to deploy
-
-Static repo: https://github.com/Edward358-AI/Ultraviolet-Static
+See https://github.com/titaniumnetwork-dev/Ultraviolet-App for info on how to deploy to various services<br><br>Deploy from terminal:
+```
+git clone https://github.com/Edward358-AI/myohtheweb-new.git
+cd myohtheweb-new
+npm i
+npm start
+```
+<br><br>Static repo: https://github.com/Edward358-AI/Ultraviolet-Static
